@@ -3,7 +3,7 @@
 repo for project Friendzone
 
 Members:
-Clemetine Eckert,
+Clementine Eckert,
 William Kummetz,
 Mario Mendez,
 Alex Poon,
