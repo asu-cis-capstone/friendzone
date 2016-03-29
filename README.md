@@ -3,10 +3,10 @@
 repo for project Friendzone
 
 Members:
-Clemetine Eckert
-William Kummetz
-Mario Mendez
-Alex Poon
+Clemetine Eckert,
+William Kummetz,
+Mario Mendez,
+Alex Poon,
 Kevin Welty
 
 Measurement plan: The % of surveyed users who sign up for our service
