@@ -19,3 +19,8 @@ The % of survey users who signed up for our service = 0%. We had created 3 inter
 
 Pitch:
 While attending college, it can be difficult to find friends with similar interest. With the busy day-to-day of classes, homework, meetings, and work the FriendZone application can bring people together. FriendZone is a mobile application that will help ASU students find people with similar interests and create friendships through social activities. 
+
+POP prototype : FriendZone. 
+ You can browse it on your phone or the website with the link below: 
+https://popapp.in/projects/56fac03b08fd317b209f2497/preview
+
